@@ -26,9 +26,11 @@ public class App {
             System.out.println("emre");
             return true;
             //deneme emre
+            //emre
 
         } else {
             System.out.println("Başarısız");
+            //emre
             return false;
         }
     }
