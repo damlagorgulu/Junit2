@@ -31,8 +31,10 @@ public class App {
         } else {
             System.out.println("Başarısız");
             //emre
+            System.out.println("emre");
             return false;
         }
     }
 
    }
+
