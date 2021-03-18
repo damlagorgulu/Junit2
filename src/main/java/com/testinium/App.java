@@ -22,8 +22,9 @@ public class App {
         System.out.println(result);
         if (Objects.equals(result, "emregorgulu198900")) {
             System.out.println("Başarılı");
+
+            System.out.println("emre");
             return true;
-            //deneme
 
         } else {
             System.out.println("Başarısız");
